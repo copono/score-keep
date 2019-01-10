@@ -21,6 +21,7 @@
 }
 
 .button--round {
+    touch-action: manipulation;
     border-radius: 50%;
     height: 4rem;
     width: 4rem;
